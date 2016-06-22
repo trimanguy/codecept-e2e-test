@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "author": "Triman Nguyen <trimnguy@cisco.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^0.3.5",
+    "webdriverio": "^4.0.9"
+  }
+}
